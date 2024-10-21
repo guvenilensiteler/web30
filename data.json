@@ -13,7 +13,6 @@
         "color": "#1fe0ff",
         "miktar": "₺888",
         "promo_code": "DBONUS888TL",
-        "elmas": "sinirsiz-cekim.webp",
         "slider_img": ""
       },
       {
@@ -38,7 +37,6 @@
         "color": "#ff1376",
         "miktar": "₺1.111",
         "promo_code_yok": "KAYIT OL DENEME BONUSUNU AL!",
-        "elmas": "en-yuksek.webp",
         "slider_img": ""
       },
       {
@@ -51,7 +49,6 @@
         "color": "#178b42",
         "miktar": "₺1.001",
         "promo_code": "BONUS1001TL",
-        "elmas": "sinirsiz-cekim.webp",
         "slider_img": ""
       },
       {
@@ -64,7 +61,6 @@
         "color": "#00c683",
         "miktar": "₺888",
         "promo_code": "888TLBONUS",
-        "elmas": "ayin-sitesi.webp",
         "slider_img": ""
       },
       {
@@ -168,19 +164,19 @@
         "sort": "3",
         "sites": [
           {
-            "site": "betewin",
+            "site": "betkom",
             "sort": "1"
           },
           {
-            "site": "bankobet",
+            "site": "mariobet",
             "sort": "2"
           },
           {
-            "site": "tarafbet",
+            "site": "bankobet",
             "sort": "3"
           },
           {
-            "site": "mariobet",
+            "site": "tarafbet",
             "sort": "4"
           },
           {
@@ -188,7 +184,7 @@
             "sort": "5"
           },
           {
-            "site": "betkom",
+            "site": "betewin",
             "sort": "6"
           }
         ]
