@@ -74,6 +74,18 @@
         "miktar": "₺999",
         "promo_code_yok": "KAYIT OL 999TL BONUS AL",
         "slider_img": ""
+      },
+      {
+        "url": "https://bit.ly/ogedayzbahis",
+        "desc": [
+          "1.000₺ + 111 FREE SPIN"
+        ],
+        "site": "zbahis",
+        "sort": null,
+        "color": "#48effa",
+        "miktar": "₺1.000",
+        "promo_code_yok": "TIKLA, KAYIT OL BONUSU AL",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -186,6 +198,10 @@
           {
             "site": "betewin",
             "sort": "6"
+          },
+          {
+            "site": "zbahis",
+            "sort": "7"
           }
         ]
       },
